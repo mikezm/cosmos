@@ -256,7 +256,7 @@ a:focus {
 .purchase-section {
     width: 100%;
     padding: 50px 0;
-    color: #000;
+    color: #fff;
     background: url(../img/honkawa_BG2_dark.jpg) no-repeat center center scroll;
     background-color: #000;
     -webkit-background-size: cover;
