@@ -253,11 +253,12 @@ a:focus {
     padding-top: 100px;
 }
 
+.purchase-section p { font-weight:700; }
 .purchase-section {
     width: 100%;
     padding: 50px 0;
-    color: #fff;
-    background: url(../img/honkawa_BG2_dark.jpg) no-repeat center center scroll;
+    color: #000;
+    background: url(../img/cosmosFlower2_small.jpg) no-repeat center center scroll;
     background-color: #000;
     -webkit-background-size: cover;
     -moz-background-size: cover;
