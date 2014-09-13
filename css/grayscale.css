@@ -253,12 +253,25 @@ a:focus {
     padding-top: 100px;
 }
 
-.purchase-section p { font-weight:700; }
+
+.clearer { height:20px; }
+
+.myCoursel { vertical-align:middle; }
+#reviews {
+    background: url(../img/cosmosFlower1_darkBG.jpg) no-repeat center center scroll;
+    background-color: #000;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    background-size: cover;
+    -o-background-size: cover;
+}
+
+.purchase-section p { font-weight:300; }
 .purchase-section {
     width: 100%;
     padding: 50px 0;
-    color: #000;
-    background: url(../img/cosmosFlower2_small.jpg) no-repeat center center scroll;
+    color: #fff;
+    background: url(../img/cosmosFlower2_darkBG.jpg) no-repeat center center scroll;
     background-color: #000;
     -webkit-background-size: cover;
     -moz-background-size: cover;
