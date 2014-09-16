@@ -10,6 +10,7 @@ body {
     font-family: Lora,"Helvetica Neue",Helvetica,Arial,sans-serif;
     color: #fff;
     background-color: #000;
+	text-shadow: 2px 2px #000;
 }
 
 html {
@@ -28,6 +29,7 @@ h6 {
     font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
     font-weight: 700;
     letter-spacing: 1px;
+    
 }
 
 p {
@@ -254,7 +256,7 @@ a:focus {
 }
 
 
-.clearer { height:20px; }
+.clearer { height:30px; }
 
 .myCoursel { vertical-align:middle; }
 #reviews {
@@ -321,6 +323,7 @@ a:focus {
     outline: 0;
     color: #000;
     background-color: #219ab3;
+	text-shadow: none;
 }
 
 ul.banner-social-buttons {
@@ -376,3 +379,13 @@ img::-moz-selection {
 body {
     webkit-tap-highlight-color: rgba(255,255,255,.2);
 }
+
+/*  custom cover image  */
+
+#cover {
+	margin-top:10px;
+	height:400px; 
+	box-shadow: 10px 10px 5px #1A1A1A;
+}
+
+
