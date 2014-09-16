@@ -10,7 +10,7 @@ body {
     font-family: Lora,"Helvetica Neue",Helvetica,Arial,sans-serif;
     color: #fff;
     background-color: #000;
-	text-shadow: 2px 2px #000;
+	text-shadow: 1px 1px #000;
 }
 
 html {
@@ -29,7 +29,7 @@ h6 {
     font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
     font-weight: 700;
     letter-spacing: 1px;
-    
+   text-shadow: 2px 2px #000; 
 }
 
 p {
@@ -255,9 +255,6 @@ a:focus {
     padding-top: 100px;
 }
 
-
-.clearer { height:30px; }
-
 .myCoursel { vertical-align:middle; }
 #reviews {
     background: url(../img/cosmosFlower1_darkBG.jpg) no-repeat center center scroll;
@@ -289,7 +286,7 @@ a:focus {
 
 @media(min-width:767px) {
     .content-section {
-        padding-top: 250px;
+        padding:250px 0 150px;
     }
 
     .purchase-section {
